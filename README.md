@@ -1,5 +1,5 @@
 # Hello, It's <u>*AmigosKazz*</u> 😃👋
-# ## In this repo i wana talk about "***Evolution of Java from Java 8 to Java 22*** " 🚀🚀
+## In this repo i wana talk about "***Evolution of Java from Java 8 to Java 22*** " 🚀🚀
 [Documentation officielle de Java](https://docs.oracle.com/en/java/)
 
 ## `JDK 8 (2014):`
